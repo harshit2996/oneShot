@@ -31,6 +31,10 @@
 3. ```'/students'``` Get List of All Students, Click on a Stuent Name to get his Details like Skills , college_id, batch, etc.  
 
 
+<img src = "https://github.com/harshit2996/oneShot/blob/master/OneShot_Responsive_Mode_Harshit_Singh.gif" width="100%" contain/>
+
+#### Responsive Mode Demo
+
 ### Tech Stack 
 -  Node.JS (Express)
 -  React.JS
