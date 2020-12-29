@@ -1,0 +1,6 @@
+[submodule "oneShot-frontend"]
+	path = oneShot-frontend
+	url = https://github.com/harshit2996/oneShot-frontend
+[submodule "oneShot-backend"]
+	path = oneShot-backend
+	url = https://github.com/harshit2996/oneShot-backend
